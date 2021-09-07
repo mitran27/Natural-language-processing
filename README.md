@@ -21,14 +21,6 @@ Extracting important  features from text
 </ul>
 
 
-<h2> 2) Feature extraction</h2>
-Extracting important  features from text
-<ul>
-  <li>Bag of words</li>
-  <li>TF-IDF</li>
-  <li>n-gram</li>
-  <li>one ot encoding</li>
-</ul>
 
 
 
@@ -50,14 +42,14 @@ representing sematic meaning of a word in terms of mathematical form(real valued
   <li>glove </li>
 </ul>
 
-<h2> 4) ML projects</h2>
+<h2> 5) ML projects</h2>
 building nlp using machine learning algorithms
 <ul>
   <li>Naive bayes</li>
   <li>logistic regression </li>
 </ul>
 
-<h2> 4) DL projects</h2>
+<h2> 6) DL projects</h2>
 building nlp using depp learning algorithms
 <ul>
   <li>CNN</li>
@@ -68,7 +60,7 @@ building nlp using depp learning algorithms
   <li>stacked lstm </li>
 </ul>
 
-<h2> 4) seq 2 seq projects</h2>
+<h2> 7) seq 2 seq projects</h2>
 building sequence to sequence projects using encoder and decoder
 <ul>
   <li>seq2seq</li>
